@@ -54,3 +54,7 @@ test/Win32/Debug/RazorTests.exe
 *.exe
 demos/WBConsole/Linux64/Debug/WBConsole
 *.~1~
+
+# Delphi history and backups
+__history/
+*.~*
